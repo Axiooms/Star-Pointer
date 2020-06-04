@@ -1,0 +1,3 @@
+https://proamwetal-2015.sciencesconf.org/conference/proamwetal-2015/pages/astrometry_net_JPG.pdf #diapo conf astrometry
+http://www.astrosurf.com/topic/60551-un-mirroir-dastrometrynet-pour-les-astrams-franchouillards/ #Post ask help to create a 'french' astrometry
+http://www.astrosurf.com/topic/61028-si-tu-connais-django-tu-peux-%C3%AAtre-un-h%C3%A9ros/ #Post look for a django developper to continue "a 'french' astrometry"
