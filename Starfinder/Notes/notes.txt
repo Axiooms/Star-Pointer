@@ -1,0 +1,13 @@
+Sources :
+
+-The clock function (Starfinder.Param_widgets) is based on the work of Vegeseat share on Daniweb.com
+(Profile url : https://www.daniweb.com/members/19440/vegaseat ; His post : https://www.daniweb.com/programming/software-development/code/216785/tkinter-digital-clock-python)
+
+-The Astronomic Objects Catalogs are from : - https://github.com/jbcurtin/messier-catalogue/blob/master/data/messier-objects.csv (Messier)
+        	         		    - http://www.astrosurf.com/luxorion/download.htm (NGC)
+- Different websites I used to solve problems or learn Tkinter :
+	- http://tkinter.fdex.eu/doc/ #Tkinter documentation;
+	- https://www.tutorialspoint.com/python/python_gui_programming.htm #Useful to understand  widgets parameters
+	- https://python.sdv.univ-paris-diderot.fr/20_tkinter/ #A very good site to learn how to use tkinter
+
+- A huge thank for the Discord Server where I was helped so many times : https://discord.gg/readthedocs (French Server)
