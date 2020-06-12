@@ -178,7 +178,8 @@ class Star_finder(tk.Tk):
         self.current_target_lbl.grid(row = 0, column = 0, sticky = 'w', padx = 70)
         self.current_target_lbl = tk.Label(self.coords_frame, textvariable = self.target_coords_strvar, bg = '#962E12')
         self.current_target_lbl.grid(row = 1, column = 0, sticky = 'w', padx = 20)
-
+        
+        #WARNING, this frame is not displayed
         #Display current position
         self.current_pos_frame = tk.LabelFrame(self.target_frame, text = 'Current Position', width = 396, height = 80, bg = '#962E12')
         self.current_target_frame.grid(row = 1, column = 0)
